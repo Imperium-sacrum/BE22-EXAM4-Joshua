@@ -1,0 +1,15 @@
+/* styles for the index.php */
+.imgCard{
+    height: 50vh;
+}
+.imgBanner{
+    width: 100%;
+    height: 50vh;
+}
+/* .heightS{
+    height: 10px;
+} */
+/* styles for the details.php */
+.imgCard2{
+    height: 60vh;
+}
